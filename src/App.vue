@@ -8,6 +8,7 @@
     <div id="footer">
       <div id="footer-text">
         <p id="footer-copyright">2020 - {{ getYear() }} Ngonidzashe Mangudya</p>
+        <p><a href="https://github.com/spencerwooo/portfolio"><img src="https://img.shields.io/badge/Designed%20by-github.com%2Fspencerwooo-black?logo=github&style=for-the-badge&labelColor=24292e" alt="copyright"/></a></p>
       </div>
     </div>
   </div>
